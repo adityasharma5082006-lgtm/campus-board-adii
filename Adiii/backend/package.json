@@ -1,0 +1,25 @@
+{
+  "name": "campus-board-backend",
+  "version": "1.0.0",
+  "description": "Production-ready backend API for Campus Board — Campus Pulse hackathon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "campus-pulse",
+    "google-for-developers",
+    "gemini-api",
+    "express",
+    "campus-board"
+  ],
+  "author": "Aditya Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
+

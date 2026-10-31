@@ -1,0 +1,55 @@
+[
+  {
+    "id": "notice-1",
+    "title": "Computer Networks Lab Record Submission",
+    "category": "deadline",
+    "date": "2026-11-01",
+    "time": "17:00",
+    "venue": "Room 204",
+    "group": "CSE 3rd Year",
+    "originalMessage": "Urgent: Kal 5 baje Computer Networks ka lab record submit krna hai Room 204 me.",
+    "starred": true,
+    "done": false,
+    "createdAt": 1730370000000
+  },
+  {
+    "id": "notice-2",
+    "title": "End Sem Practical Examination",
+    "category": "exam",
+    "date": "2026-11-03",
+    "time": "10:00",
+    "venue": "Lab 3",
+    "group": "CSE Dept",
+    "originalMessage": "End Sem Practical Exam scheduled on 3 Nov at 10:00 am in Lab 3.",
+    "starred": true,
+    "done": false,
+    "createdAt": 1730360000000
+  },
+  {
+    "id": "notice-3",
+    "title": "Capgemini Campus Placement Drive",
+    "category": "placement",
+    "date": "2026-11-04",
+    "time": "09:00",
+    "venue": "Auditorium",
+    "group": "T&P Cell",
+    "originalMessage": "Capgemini Campus Placement Drive on Friday 9:00 am in Auditorium. Dress code formal.",
+    "starred": false,
+    "done": false,
+    "createdAt": 1730350000000
+  },
+  {
+    "id": "notice-4",
+    "title": "Google Cloud Study Jam Workshop",
+    "category": "event",
+    "date": "2026-11-05",
+    "time": "14:00",
+    "venue": "Seminar Hall 1",
+    "group": "GDG On Campus",
+    "originalMessage": "Join us for Google Cloud Study Jam Workshop this Wednesday at 2pm in Seminar Hall 1.",
+    "starred": false,
+    "done": false,
+    "createdAt": 1730340000000
+  }
+]
+
